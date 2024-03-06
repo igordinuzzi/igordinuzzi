@@ -5,11 +5,9 @@
 
 - 🌱 I’m currently learning **React, Typescript, Javascript, Vue**
 
-- 👯 I’m looking to collaborate on **I'm on a mission to expand my design expertise by diving deeper into the world of web development. So, I'm currently transitioning into a UI developer and front-end specialist, building on my foundation in UX design. To fuel this journey, I'm powering up with a Full-Stack diploma at the Code Institute. This is where I'm mastering all the cool stuff under the hood, like HTML, CSS, JavaScript, TypeScript, React and a bunch of other techy friends. Plus, I've become a pro at using Git & GitHub to keep my code organized and collaborative!**
+- 👯 **I'm on a mission to expand my design expertise by diving deeper into the world of web development. So, I'm currently transitioning into a UI developer and front-end specialist, building on my foundation in UX design. To fuel this journey, I'm powering up with a Full-Stack diploma at the Code Institute. This is where I'm mastering all the cool stuff under the hood, like HTML, CSS, JavaScript, TypeScript, React and a bunch of other techy friends. Plus, I've become a pro at using Git & GitHub to keep my code organized and collaborative!**
 
-- 👨‍💻 All of my projects are available at [https://igordinuzzi.github.io/portfolio-react/](https://igordinuzzi.github.io/portfolio-react/)
-
-- 💬 Ask me about **React, Typescript**
+- 👨‍💻 All of my projects are available at [https://github.com/igordinuzzi]([zzi.github.io/portfolio-react/](https://github.com/igordinuzzi))
 
 - 📫 How to reach me **replytoigor@gmail.com**
 
