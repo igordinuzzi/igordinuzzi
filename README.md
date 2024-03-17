@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently crafting [My Portfolio](https://igordinuzzi.github.io/portfolio-react/)
 
-- 🌱 I’m on a learning path with **React, TypeScript, JavaScript, Vue**
+- 🌱 I’m enriching my skills with **React, TypeScript, JavaScript, Vue**
 
-- 👯 **Transitioning to a UI development and front-end specialization, I’m expanding my design roots into full-fledged web development. Engaged in a Full-Stack diploma at the Code Institute, I'm acquiring skills in HTML, CSS, JavaScript, TypeScript, React, among others, while mastering Git & GitHub for efficient code collaboration and management.**
+- 👯 **As a Creative Designer & Developer, I'm dedicated to broadening my expertise by embracing new technologies and methodologies. I'm enhancing my toolset through a Full-Stack diploma at the Code Institute, where I'm delving into HTML, CSS, JavaScript, TypeScript, React, and more. This journey also includes refining my proficiency in Git & GitHub for superior code management and teamwork.**
 
 - 👨‍💻 Explore my projects on [https://github.com/igordinuzzi](https://github.com/igordinuzzi)
 
@@ -30,9 +30,9 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
 <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40
+<a href="https://www.photoshop.com/en" target="_blank" rel="n
 
-"/> </a>
+oreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a>
