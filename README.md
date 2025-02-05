@@ -9,25 +9,7 @@
 - 📫 Reach me at **replytoigor@gmail.com**  
 - 📄 Connect on [**LinkedIn**](https://www.linkedin.com/in/igor-dinuzzi-von-ach-100286ab/)  
 
-<h3 align="left">Let's Connect:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/igor-dinuzzi-von-ach-100286ab/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-</p>
-
 <h3 align="left">My Toolkit:</h3>
 <p align="left">
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-</a>
-<a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/adobe_aftereffects/adobe_aftereffects-icon.svg" alt="after effects" width="40" height="40"/> 
-</a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-</a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-</a>
+Communication design, motion graphics, branding, UI branding, UI design, UX design, design systems, UI patterns and guidelines, wireframing and prototyping, information architecture, interaction design, user stories and personas, design thinking, accessibility standards, user research and testing, Adobe Suite, Figma, Figma Dev, HTML5, CSS3, JavaScript (ES6+), TypeScript, JSON, React.js, Next.js, Bootstrap, Tailwind, jQuery, Git and GitHub, Node.js, NPM, cross-browser compatibility, Scrum and Agile, optimization, deployment.
 </p>
